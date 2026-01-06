@@ -1,0 +1,13 @@
+customer_id,first_name,last_name,email,city,registration_date
+C001,Rahul,Sharma,rahul.sharma@email.com,Bangalore,2023-01-15
+C002,Priya,Patel,priya.patel@email.com,Mumbai,2023-02-20
+C003,Amit,Kumar,amit.kumar@email.com,Delhi,2023-03-10
+C004,Sneha,Reddy,sneha.reddy@email.com,Hyderabad,2023-04-15
+C005,Vikram,Singh,vikram.singh@email.com,Chennai,2023-05-22
+C006,Anjali,Mehta,anjali.mehta@email.com,Bangalore,2023-06-18
+C007,Ravi,Verma,ravi.verma@email.com,Pune,2023-07-25
+C008,Pooja,Iyer,pooja.iyer@email.com,Bangalore,2023-08-15
+C009,Karthik,Nair,karthik.nair@email.com,Kochi,2023-09-30
+C010,Deepa,Gupta,deepa.gupta@email.com,Delhi,2023-10-12
+C011,Arjun,Rao,arjun.rao@email.com,Hyderabad,2023-11-05
+C012,Lakshmi,Krishnan,lakshmi.krishnan@email.com,Chennai,2023-12-01
